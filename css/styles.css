@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+  background-color: #FFF8E7;
+}
+
+.navbar {
+    background-color:#C89A9C;
+    /*display: flex;*/
+}
+
+.navitem {
+  color: white;
+  float: left;
+  padding: 20px;
+}
+.first {
+  padding-left: 40px;
+}
